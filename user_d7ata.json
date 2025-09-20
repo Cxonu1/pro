@@ -1,0 +1,44 @@
+{
+    "7178708891": {
+        "templates": {},
+        "known_chats": {
+            "1598987074": "كروب بنات دردشه تعارف"
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "awaiting_here",
+            "templates": [
+                {
+                    "text": "منو تصير جلبتي وادخلها بكروب جلباتي تضيفني او تراسل خاص 🦮"
+                }
+            ],
+            "interval": 30,
+            "groups": [
+                "channel:1598987074"
+            ],
+            "last_msg_id": [
+                208616
+            ],
+            "here_groups": [
+                "1598987074"
+            ]
+        },
+        "broadcast_status": {
+            "is_broadcasting": true,
+            "broadcast_type": "groups",
+            "sleep_time": 30,
+            "template_pattern": "1",
+            "groups": [
+                "channel:1598987074"
+            ],
+            "templates": [
+                {
+                    "text": "منو تصير جلبتي وادخلها بكروب جلباتي تضيفني او تراسل خاص 🦮"
+                }
+            ],
+            "group_rotation": {
+                "1598987074": 677
+            }
+        }
+    }
+}
