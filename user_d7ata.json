@@ -24,7 +24,7 @@
             ]
         },
         "broadcast_status": {
-            "is_broadcasting": true,
+            "is_broadcasting": false,
             "broadcast_type": "groups",
             "sleep_time": 30,
             "template_pattern": "1",
